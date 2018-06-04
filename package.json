@@ -1,0 +1,8 @@
+{
+    "name": "darkSkyAPI",
+    "version": "0.0.1",
+    "description": "utilize Dark Sky API in Exercise",
+    "dependencies": {
+        "axios": "^0.18.0"
+    }
+}
